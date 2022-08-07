@@ -14,5 +14,7 @@ flask
 #
 # TEST
 #
+# Heroku needs this package to know what app to run
+gunicorn
 
 pytest
